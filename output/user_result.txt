@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-01 06:20:42,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-03-01 18:23:11,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -37,8 +37,8 @@ CCTV-4,rtsp://103.251.96.71/PLTV/88888888/224/3221225778/10000100000000060000000
 CCTV-4,rtsp://115.153.254.81/PLTV/88888888/224/3221226838/59814684.smil
 CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 CCTV-5,http://42.225.117.174:11199/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://218.15.183.23:9901/tsfile/live/23022_1.m3u8
 CCTV-5,http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
+CCTV-5,http://218.15.183.23:9901/tsfile/live/23022_1.m3u8
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,rtsp://180.95.143.19/PLTV/88888910/224/3221225609/10000100000000060000000000790217_0.smil
 CCTV-5,rtsp://60.13.27.115/PLTV/88888910/224/3221225609/10000100000000060000000000790217_0.smil
@@ -64,8 +64,8 @@ CCTV-7,rtsp://124.152.124.50/PLTV/88888910/224/3221225572/1000010000000006000000
 CCTV-7,rtsp://180.95.143.19/PLTV/88888910/224/3221225572/10000100000000060000000000107352_0.smil
 CCTV-7,rtsp://115.153.254.81/PLTV/88888888/224/3221226827/59814693.smil
 CCTV-7,rtsp://60.13.39.18/PLTV/88888910/224/3221225572/10000100000000060000000000107352_0.smil
-CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 CCTV-8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 CCTV-8,http://183.237.95.108:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,rtsp://60.13.27.115/PLTV/88888910/224/3221225601/10000100000000060000000000295674_0.smil
@@ -85,8 +85,8 @@ CCTV-9,rtsp://124.152.124.50/PLTV/88888910/224/3221225575/1000010000000006000000
 CCTV-9,rtsp://115.153.254.81/PLTV/88888888/224/3221226840/59814699.smil
 CCTV-10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
 CCTV-10,http://183.237.95.108:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-10,http://42.225.117.174:11199/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV-10,http://42.225.117.174:11199/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV-10,rtsp://115.85.205.19/PLTV/88888910/224/3221225577/10000100000000060000000000107357_0.smil
 CCTV-10,rtsp://60.13.27.115/PLTV/88888910/224/3221225577/10000100000000060000000000107357_0.smil
@@ -103,8 +103,8 @@ CCTV-11,rtsp://115.85.232.19/PLTV/88888910/224/3221225843/376430589.smil
 CCTV-11,rtsp://221.7.61.147/PLTV/88888910/224/3221225501/10000100000000060000000000107281_0.smil
 CCTV-11,rtsp://115.153.254.81/PLTV/88888888/224/3221226986/85722616.smil
 CCTV-12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
-CCTV-12,http://42.225.117.174:11199/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV-12,http://42.225.117.174:11199/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8
 CCTV-12,rtsp://124.152.124.50/PLTV/88888910/224/3221225578/10000100000000060000000000107358_0.smil
 CCTV-12,rtsp://115.85.205.19/PLTV/88888910/224/3221225578/10000100000000060000000000107358_0.smil
@@ -112,8 +112,8 @@ CCTV-12,rtsp://180.95.143.19/PLTV/88888910/224/3221225578/1000010000000006000000
 CCTV-12,rtsp://115.153.254.81/PLTV/88888888/224/3221226829/59814709.smil
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV-13,rtsp://180.95.143.19/PLTV/88888910/224/3221225844/376430600.smil
 CCTV-13,rtsp://115.153.254.81/PLTV/88888888/224/3221227037/87447722.smil
